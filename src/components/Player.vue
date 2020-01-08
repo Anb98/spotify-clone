@@ -1,5 +1,5 @@
 <template>
-	<div class="bg-green-900 w-screen text-red-100" >
+	<div class="bg-gray-700-spotify w-screen text-red-100" >
 		player pro
 	</div>
 </template>
