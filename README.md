@@ -1,4 +1,4 @@
-# testing_tailwind_vue
+# Spotify tailwind clone
 
 ## Project setup
 ```
