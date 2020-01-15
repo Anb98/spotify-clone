@@ -15,7 +15,7 @@
 import Header from './components/Header';
 import Aside from './components/Aside/index';
 import Main from './components/Main';
-import Player from './components/Player';
+import Player from './components/Player/ThePlayer';
 
 export default {
   name: 'app',

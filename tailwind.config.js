@@ -6,13 +6,19 @@ module.exports = {
 			'gray-800-spotify':"#181818",
 			'gray-700-spotify':"#282828",
 		},
-      inset: {
-        'full': '100%',
-      },
-      opacity: {
-        '10': '0.1',
-        '90': '0.9',
-      },
+		spacing:{
+			'7':'1.75rem',
+			'14':'3.5rem',
+			'22':'5.5rem',
+			'200':'50rem',
+		},
+		inset: {
+			'full': '100%',
+		},
+		opacity: {
+			'10': '0.1',
+			'90': '0.9',
+		},
     },
   },
   variants: {
