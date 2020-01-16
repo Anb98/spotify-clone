@@ -3,7 +3,7 @@
 		
 		<Info/>
 		<Controls/>
-		<div></div>
+		<Volume/>
 
 	</div>
 </template>
@@ -11,11 +11,13 @@
 <script>
 import Info from './Info';
 import Controls from './Controls';
+import Volume from './Volume';
 
 export default {
 	components:{
 		Info,
 		Controls,
+		Volume,
 	}
 }
 </script>

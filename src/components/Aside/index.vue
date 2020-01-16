@@ -24,8 +24,8 @@
 		<footer class="border-t border-gray-800 px-4 py-2 hover:text-white">
 			<a href="#" >
 				<span 
-					class="inline-block rounded-full border-gray-400 border-2 w-6 h-6 text-center mr-2 text-xs">
-					<i class="fas fa-plus"></i>
+					class="inline-block rounded-full border-gray-400 border w-6 h-6 text-center mr-2 text-xs">
+					<i class="fas fa-plus text-sm pt-1"></i>
 				</span>
 				<span>New playlist</span>
 			</a>
