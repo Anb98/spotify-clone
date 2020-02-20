@@ -49,7 +49,7 @@ export default {
 			const data = await res.json();
 			this.transformData(data.playlists.items);
 		} catch (error) {
-			console.log('error :', error);
+			// console.log('error :', error);
 		}
 	},
 	data:()=>({
